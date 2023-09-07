@@ -1,0 +1,25 @@
+body{
+  background-color: #424242;
+}
+h1{
+  text-align: center;
+  color: white;
+  background-color: blue;
+}
+
+h3{
+  text-align: center;
+  color: white;
+  background-color:blue;
+}
+
+h4{
+  text-align: center;
+  color: green;
+}
+
+#dogeBread{
+  width: 20%
+}
+
+/* color: #212121; */
