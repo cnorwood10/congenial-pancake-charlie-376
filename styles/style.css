@@ -1,25 +1,35 @@
 body{
-  background-color: #424242;
+  background-color: seashell;
 }
 h1{
   text-align: center;
   color: white;
   background-color: blue;
+  font-size: 50px;
+  font-family: 'Indie Flower';
 }
 
 h3{
   text-align: center;
   color: white;
   background-color:blue;
+  font-family: 'Macondo', cursive;
+  font-size: 40px;
+  margin-top: -8px;
 }
 
 h4{
   text-align: center;
-  color: green;
+  color: red;
+  font-family: 'Kalam', cursive;
+  font-weight: bold;
+  font-size: 50px;
 }
 
 #dogeBread{
-  width: 20%
+  width: 40%
 }
 
-/* color: #212121; */
+#oven{
+  margin-left: 500px;
+}
