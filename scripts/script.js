@@ -4,7 +4,7 @@ $( document ).ready(function() {
       console.log("position: ", $('#dogeBread').position());
     });
   
-  $("#dogeBread").draggable({axis: 'x', cursor: "crosshair", cursorAt: {top: 200, left: 300}});
+  $("#dogeBread").draggable({cursor: "crosshair", cursorAt: {top: 225, left: 300}});
       $( "#dogeBread" ).draggable({
       stop: function() {
         if($('#dogeBread').position().left > 800){
